@@ -37,16 +37,16 @@ Use a get request on https://simple-speaker-api.herokuapp.com/api/omar suleiman
 **Response Format:**
 
 json{
-  "age": 39,
-  "birthName": "Omar Suleiman",
-  "birthDate": "June 3, 1986",
-  "birthLocation": "New Orleans, Louisiana",
-  "residing": "Valley Ranch Islamic Center, Irving TX",
-  "preachingStyle": "Soft, emotionally geared, but efficient",
-  "occupation": "Imam, Civil Rights Activist, Author",
-  "yearsActive": "2005-present",
-  "Origin": "Palestine",
-  "children": 3
+  - "age": 39,
+  - "birthName": "Omar Suleiman",
+  - "birthDate": "June 3, 1986",
+  - "birthLocation": "New Orleans, Louisiana",
+  - "residing": "Valley Ranch Islamic Center, Irving TX",
+  - "preachingStyle": "Soft, emotionally geared, but efficient",
+  - "occupation": "Imam, Civil Rights Activist, Author",
+  - "yearsActive": "2005-present",
+  - "Origin": "Palestine",
+  - "children": 3
 }
 
 **Optimizations**
