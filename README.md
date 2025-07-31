@@ -35,6 +35,7 @@ GET /api/yasir qadhi
 Use a get request on https://simple-speaker-api.herokuapp.com/api/omar suleiman
 
 **Response Format:**
+
 json{
   "age": 39,
   "birthName": "Omar Suleiman",
